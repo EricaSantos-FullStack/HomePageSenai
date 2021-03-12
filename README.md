@@ -3,6 +3,10 @@
 Este projeto foi realizado com Node.js com o intuito de criar algo semelhante a página inicial do Senai.
 Apresentando 3 cursos incríveis, acessiveis e gratuitos.
 
+## Tecnologia:
+
+![react-js-icon](https://user-images.githubusercontent.com/71906862/111007257-304da180-836d-11eb-92b7-351944f244b4.png)
+
 ## :sparkles: Etapas do projeto:
 - [X] Receber a tarefa.
 - [X] Análise do Website do Senai Suiço Brasileira.
