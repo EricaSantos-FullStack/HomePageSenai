@@ -1,7 +1,7 @@
 # Home Page Senai
 
 Este projeto foi realizado com Node.js com o intuito de criar algo semelhante a página inicial do Senai.
-Apresentando 3 cursos incríveis, acessiveis e gratuitos.
+Apresentando 3 cursos incríveis, acessíveis e gratuitos.
 
 ## Tecnologia:
 
